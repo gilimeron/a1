@@ -1,11 +1,17 @@
 body{
   text-align: center;
+  
 }
 h1{
+  text-align: center;
   color: red
 }
 h2{
   color: green
+}
+img{
+  height: 200px;
+  width: 200px
 }
 p{
   color: black
